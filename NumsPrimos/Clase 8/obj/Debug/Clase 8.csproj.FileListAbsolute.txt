@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\NumsPrimos\Clase 8\obj\Debug\Clase 8.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\NumsPrimos\Clase 8\obj\Debug\Clase 8.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\NumsPrimos\Clase 8\bin\Debug\Clase 8.exe.config
+C:\Users\Usuario\source\repos\NumsPrimos\Clase 8\bin\Debug\Clase 8.exe
+C:\Users\Usuario\source\repos\NumsPrimos\Clase 8\bin\Debug\Clase 8.pdb
+C:\Users\Usuario\source\repos\NumsPrimos\Clase 8\obj\Debug\Clase 8.exe
+C:\Users\Usuario\source\repos\NumsPrimos\Clase 8\obj\Debug\Clase 8.pdb
